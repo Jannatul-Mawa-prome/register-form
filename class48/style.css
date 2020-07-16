@@ -1,0 +1,61 @@
+body{
+	background-image: url('images/th.jpg');
+	background-size: 100% 100%;
+}
+.register{
+	border:2px solid white;
+	margin:auto;
+	width:40%;
+	background-color:gray;
+	overflow: hidden;
+}
+.login{
+	margin-top:10%;
+}
+.form{
+	text-align: center;
+	padding: 20px 0;
+}
+input{
+	margin-bottom: 30px;
+	width:350px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+	padding: 5px 10px;
+}
+input[type="submit"]{
+	background-color:red;
+	width:30%;
+	font-size: 25px;
+	font-weight: bold;
+	border:none;
+	border-radius: 6px;
+	color:white;
+	padding:0;
+	
+}
+.register h1{
+	color:red;
+	text-align: center;
+}
+.table h1{
+	color:red;
+	width:100px;
+	margin:20px auto;
+}
+h3{
+	color:blue;
+	text-align: center;
+	margin-top:0px;
+}
+.table{
+	width:560px;
+	margin:40px auto;
+}
+.table table th,td{
+	width:200px;
+	height:10px;
+	text-align: center;
+	
+}
